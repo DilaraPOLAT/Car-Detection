@@ -1,11 +1,14 @@
 # Car-Detection
 
-** Kullanılan Teknolojiler **
+**Kullanılan Teknolojiler**
 * pycharm - Python
 * haar_cascade
 * OpenCV
 
-** Kullanılan haar_cascade Dosyası **
+**Kullanılan haar_cascade Dosyası**
+
+https://github.com/DilaraPOLAT/Car-Detection/blob/main/car.xml
+
 
 
 ![image](https://user-images.githubusercontent.com/59871974/159185259-986aeeb1-3d60-4ef7-95ca-ef13443f7b0d.png)
